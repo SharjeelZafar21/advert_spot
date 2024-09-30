@@ -1,0 +1,16 @@
+export default {
+  primary: '#9B57F2',
+  secondary: '#bc93f3',
+  white: '#FFFFFF',
+  black: '#000000',
+  darkgrey: '#707070',
+  body: '#F4F5F6',
+  green: '#44D441',
+  red: '#E02020',
+  lighred: '#FF5E65',
+  skyblue: '#70C4D9',
+  blue: '#5470EB',
+  darkgreen: '#59B55A',
+  yellow: '#F7B500',
+  logoColor: '#5c3c9c',
+};
